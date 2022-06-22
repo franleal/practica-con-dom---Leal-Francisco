@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(61, 60, 60);
+    z-index: -1;
+}
+.estilos{
+    display: block;
+    background-color: rgb(238, 180, 93);
+    margin: auto;
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    z-index: 1;
+    box-shadow: 0 0 10px rgb(238, 180, 93), 0 0 20px rgb(238, 180, 93), 0 0 20px rgb(238, 180, 93);
+    padding: 10px;
+}
+.estilos2{
+    display: block;
+    background-color: rgb(238, 180, 93);
+    margin: auto;
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    z-index: 1;
+    box-shadow: 0 0 10px rgb(238, 180, 93), 0 0 20px rgb(238, 180, 93), 0 0 20px rgb(238, 180, 93);
+    margin-top: 60px;
+    padding-top: 200px;
+}
+
+h1{
+    text-decoration: underline;
+}
